@@ -1,3 +1,6 @@
+
+
+#main関数
 def main():
     print("he");
 
